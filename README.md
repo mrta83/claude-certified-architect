@@ -117,6 +117,14 @@ Thanks to [Silvan Mühlemann](https://github.com/silvanm) and the team at mühle
 12. **[Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)** — The full AWS accreditation course, now open to everyone.
 13. **[Claude with Google Cloud's Vertex AI](https://anthropic.skilljar.com/claude-with-google-vertex)** — Work with Claude through Google Cloud's Vertex AI, from setup to production.
 
+## Claude Code Status Line
+
+A 5-line status line showing model, context usage, rate limits, and git info. See [`statusline/`](./statusline/README.md) for details.
+
+```bash
+bash statusline/install.sh
+```
+
 ## See Also
 
 - Claude Code: Commands Cheatsheet https://claude-guides.com
